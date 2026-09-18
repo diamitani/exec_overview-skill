@@ -1,6 +1,12 @@
+---
+name: exec-overview
+description: >
+  **For:** {{COMPANY_NAME}} Executive Leadership Team (ELT) & GTM Leadership **Owner:** {{USER_NAME}}, GTM AI & Automation **Category:** GTM data-quality automation (RevOps) Use this skill when working with exec overview tasks or workflows.
+---
+
 # HubSpot Import Formatter — Executive Overview
 
-**For:** {{COMPANY_NAME}} Executive Leadership Team (ELT) & GTM Leadership
+**For:** Enterprise Platform Executive Leadership Team (ELT) & GTM Leadership
 **Owner:** {{USER_NAME}}, GTM AI & Automation
 **Category:** GTM data-quality automation (RevOps)
 
@@ -8,7 +14,7 @@
 
 ## In one line
 
-An AI skill that converts any rep's messy contact or company spreadsheet into {{COMPANY_NAME}}'s
+An AI skill that converts any rep's messy contact or company spreadsheet into Enterprise Platform's
 standardized HubSpot import files automatically — eliminating the manual formatting that
 has been polluting our CRM with duplicate records.
 
@@ -41,7 +47,7 @@ ever reach HubSpot, and standardizes the unique identifiers (email, company doma
 HubSpot relies on to dedupe. It also:
 
 - **Standardizes industry semantically** — messy values ("SaaS", "Fintech") are mapped to
-  the correct HubSpot industry and **enriched with NAICS sector + code** ({{COMPANY_NAME}}'s NAICS map).
+  the correct HubSpot industry and **enriched with NAICS sector + code** (Enterprise Platform's NAICS map).
 - **Normalizes dropdown fields** (lifecycle stage, lead status, country) to valid values.
 - **Uploads directly to HubSpot on request** — upserting (no duplicates), enriching, and
   building the **list** the rep specifies (static snapshot or active/auto-updating, with
